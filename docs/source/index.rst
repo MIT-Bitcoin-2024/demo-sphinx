@@ -1,7 +1,7 @@
 Welcome to Lightning Bounties documentation!
 ===================================
 
-**Lightning Bounties ** () is a ... change this Python library for cooks and food lovers
+ENRIQUE WAS HERE **Lightning Bounties ** () is a ... change this Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
 It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
 and offers a *simple* and *intuitive* API.
